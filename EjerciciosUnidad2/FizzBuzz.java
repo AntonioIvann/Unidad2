@@ -4,7 +4,7 @@ class FizzBuzz { // Nombre de la clase
         for (int i = 1; i <= 20; i++) {
             // Utilizamos la condición if para verificar si el número es divisible por 3 y 5
             if (i % 3 == 0 && i % 5 == 0) {
-                //SI es divisible por 3 y 5 imprimimos FizzBuzz
+                // SI es divisible por 3 y 5 imprimimos FizzBuzz
                 System.out.println("FizzBuzz");
                 // Si es divisible por 3 pero no por 5 imprimimos Fizz
             } else if (i % 3 == 0) {
