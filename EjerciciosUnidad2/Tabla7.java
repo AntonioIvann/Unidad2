@@ -1,4 +1,4 @@
-public class Tabla7 { // Nombre de la clase
+class Tabla7 { // Nombre de la clase
     public static void main(String[] args) { // Metodo principal
         // Declaramos una variable con valor de 7
         int a = 7;
